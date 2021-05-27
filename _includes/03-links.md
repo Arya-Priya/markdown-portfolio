@@ -1,4 +1,4 @@
-[Magic Software]https://www.magicsoftware.com/
+[Magic Software](https://www.magicsoftware.com/)
 
 
 
